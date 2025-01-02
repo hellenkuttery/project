@@ -29,7 +29,7 @@ export const haberSlice = createSlice({
         state.loading=true;
       })
       .addCase(getData.fulfilled, (state, action) => {
-        
+        console.log(action.payload)
         state.haberler=action.payload;
         state.loading=false;
       });
