@@ -88,11 +88,11 @@ This is achieved by building:
 
 (Snapshot or UI demo screenshots can be added here.)
 
----
+![Snapshot](./src/assets/redux-toolkit-news.gif)
 
 ## Live Demo
 
-[Live NewsApp Project](#)
+[Live NewsApp Project](https://hellenkuttery.github.io/redux-toolkit-project/)
 
 ---
 
